@@ -1,9 +1,0 @@
-﻿fastapi
-uvicorn[standard]
-pydantic
-sqlalchemy
-databases
-aiohttp
-python-dotenv
-email-validator
-jinja2
